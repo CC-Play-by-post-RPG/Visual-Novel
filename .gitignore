@@ -1,2 +1,5 @@
 #compiled scripts?
 *.rpyc
+
+#saved games?
+saves/*
