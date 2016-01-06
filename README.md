@@ -1,6 +1,8 @@
 This repository will hold the code for the Visual Novel based on the play-by-post RPG found on the CC forums.
 
 #How to clone and use this repo
+
+[![Join the chat at https://gitter.im/CC-Play-by-post-RPG/Visual-Novel](https://badges.gitter.im/CC-Play-by-post-RPG/Visual-Novel.svg)](https://gitter.im/CC-Play-by-post-RPG/Visual-Novel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * Go to http://www.renpy.org/latest.html and download and extract the SDK.
 * Open renpy (the program you just extracted) and create a new project.
 * Locate the project folder and go into the "game" folder.
